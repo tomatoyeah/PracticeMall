@@ -1,5 +1,9 @@
 <template>
-    <div class="box">Search</div>
+    <div class="box">
+        Search--
+        {{this.$route.params.k1}}--
+        {{this.$route.query.k2}}
+    </div>
 </template>
 
 <script>

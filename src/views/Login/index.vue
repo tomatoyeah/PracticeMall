@@ -1,5 +1,5 @@
 <template>
-    <div class="box">Footer</div>
+    <div class="box">Login</div>
 </template>
 
 <script>
